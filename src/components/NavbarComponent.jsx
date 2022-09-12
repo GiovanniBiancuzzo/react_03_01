@@ -28,7 +28,7 @@ const NavbarComponent = () => {
                         location.pathname === "/favourites" ? "active" : ""
                     }`}
                 >
-                    Favourites <Badge variant="danger">{companiesLength}</Badge>
+                    Favourite jobs<Badge variant="danger">{companiesLength}</Badge>
                 </Link>
             </Nav>
         </Navbar>
