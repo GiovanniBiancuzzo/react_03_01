@@ -1,4 +1,4 @@
-NOTE: I MIEI PREFERITI SONO I SINGOLI ANNUNCI, NON LE COMPAGNIE
+NOTE: HO PREFERITO AGGIUNGERE AI PREFERITI I SINGOLI ANNUNCI, NON LE COMPAGNIE
 
 Riscrivi i tuoi action creator come abbiamo fatto in classe, scrivendoli in un file separato. Sostituisci ogni proprietà type scritta come semplice stringa con una costante.
 
